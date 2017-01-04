@@ -1,0 +1,372 @@
+ General Rules
+
+
+1. Do not RDM (Randomly Killing People).
+
+2. Do not break NLR ( 3 minutes ).
+
+3. Do not RDA (Randomly Arresting People).
+
+4. Respect all players.
+
+5. Listen to the staff and do what they say, their word is final.
+
+6. No prop surfing.
+
+7. No prop blocking.
+
+8. No prop pushing.
+
+9. No prop killing.
+
+10. No killing in spawn (is marked).
+
+11. Hacking or exploiting is not allowed.
+
+12. When you die you forget everything that happened in your previous life (NLR).
+
+13. Do not meta game (Using out of character knowledge for RP).
+
+14. Abusing Wiremod will result in a 2 hour ban you only get 1 chance to be told to stop.
+
+15. Do not interfere with admin sits at all.
+
+16. Don’t create inappropriate/offensive text signs.
+
+17. You may not RP, or kill in spawn, unless your RP was initiated outside of spawn.
+
+18. No combat arrest. (Baton Rushing, Arresting when in a fire fight).
+
+19. Misclick/Crossfire/"Didn't mean too" are all still RDM.
+
+20. You cannot have multiple adverts in 1 bind. (i.e RAID/COUNTER/MUG DROP 1k/OVER)
+Binds like Over/False and Raid/Raid Assist are allowed
+
+
+
+Building Rules
+
+
+
+1. When building your base you are only allowed to have 4 fading doors total.
+
+2. Whilst building, you may not advert any actions towards other players.
+
+3. When there is a building sign is up you can not raid the base.
+
+5. All keypads must have a hold length of 5 seconds.
+
+6. One way props are allowed, but you cannot shoot through them.        
+
+7. You can have shooting windows.
+
+8. Do not make your base impenetrable.
+
+9. You cannot prop block all entrances. There must be one way into the base.
+
+10. Your keypad must be visible.
+
+11. You cannot have crouch entrance bases.
+
+12. You may only own one base/building at a time.
+
+13. You cannot have fake keypads.
+
+14. You are not allowed to hide entities in inaccessible areas.
+
+15. You are allowed to have KOS signs outside your base but not to large of an area.
+
+16. You cannot build during a raid this is considered FailRP.
+
+
+
+Raiding Rules
+
+
+
+1. You must advert "Raid" before you begin.
+
+2. The raid can last no more than 10 minutes.
+
+3. Do not abuse fading doors meaning do not use your key bindings for the fading doors to access them.
+
+4. You may not kidnap people for longer than 10 minutes unless there is great roleplay involved.
+
+5. If you die during a raid you may not return for 10 minutes to that location or until raid is over.
+
+6. You cannot raid the same person until the 15 minute cooldown has expired.
+
+7. When raiding, everyone inside the base is KOS.
+
+8. Do not raid someone with a building sign.
+
+9. Once they leave the base you can return back to your base.
+
+10. You must wait a cooldown of 5 minutes between each raid.
+
+11. Defenders must follow RDR (Raider Defender's Rule) which means that the defender can't have an extreme advantage over raiders. 
+
+
+
+Mugging Rules
+
+
+
+1. You can only mug for a limit of $5000
+
+2. You can only advert "Mug" every 5 minutes.
+
+3. You can not mug the same person constantly.
+
+4. You must advert "Mug" before the mug commences to the give the player a fair chance.
+
+5. You have to give them 15 seconds to give you the requested amount of money, if they refuse or take too long they can be killed.
+
+
+
+Job Rules
+
+
+
+Civil Protection / SWAT:
+
+1. Do not randomly arrest or warrant people.
+
+2. Do not shoot or kill people evading an arrest without warning them to stop moving beforehand.
+
+3. Do not abuse the Stunstick.
+
+4. Do not warrant people for nonsensical reasons that are not within the law.
+
+5. You have to obey the law.
+
+6. You have to obey orders from the Mayor and Police Chief.
+
+7. You can not own doors or build a base.
+
+9. You can not disrespect the Mayor, Police Chief or other people.
+
+10. Do not break into the property or base of someone without a valid warrant.
+
+12. Do not Propblock people from entering the Police Station.
+
+13. You have to warn people to get inside of a building before you arrest them when there is a Lockdown.
+
+14. You are not allowed to build on the streets for reasons other than making a weaponcheck point.
+
+15. The weaponcheck point must be free to pass through at all times and may not contain a fading door.
+
+16. People may kill you if you run towards them with an Arrest Baton or if you tell them to drop their weapons.
+
+19. Do not weaponcheck people randomly, there needs to be a visible Textscreen which states that you will be weaponchecked.
+
+21. Do not random drug check players outside of a checkpoint.
+
+22. During a PD raid there is no NLR timer for the Police force. They can return as often as they like. 
+
+
+Mayor:
+
+1. You are only allowed to possess a pistol for self-defence.
+
+2. You must have reasonable laws.
+
+3. You can not own doors or build a base.
+
+4. You are only allowed to build inside of the Police Station.
+
+6. Do not place a warrant or make someone wanted for reasons outside of the law.
+
+7. You are not allowed to create or join a gang.
+
+9. You may only have laws which are reasonable.
+
+
+Gangsters / Mob Boss / Thief:
+
+1. You are allowed to build a base and base with others.
+
+2. Thieves can be hired by gangs or law enforcement to crack Keypads or pick locks.
+
+3. You are allowed to join or create a gang.
+
+4. You are allowed to possess guns.
+
+5. You are allowed to own Money Printers.
+
+6. You are allowed to advert actions.
+
+7. Gangsters must comply with the Mob Boss.
+
+Gun Dealer:
+
+1. You may supply yourself with a single pistol for self defense.
+
+2. You must build a gun store so that people can purchase weapons from you. You cannot sell on the streets.
+
+3. You are not allowed to advert any actions other than hobo/freerunner warn for being in your shop.
+
+4. Do not scam players, if money is received from a player you must give them their specified weapons.
+
+5. You are allowed to possess any weapon for self-defence. (But you can only supply yourself a pistol, you must purchase other guns from other dealers)
+
+7. You are only allowed to own doors and build a base for the purpose of creating a gun store.
+
+
+All Drug Cooks:
+
+1. Do not sell drugs to the Mayor or law enforcement unless the law states it is legal.
+
+2. You are allowed to give out free drugs.
+
+3. Can have any weapon but only to protect themselves.
+
+5. You are allowed to own Money Printers.
+
+6. You are allowed to own doors and build a base/drug store.
+
+
+Hitman:
+
+1. You must advert Hit accepted & Hit completed [With the reason for the hit stated here] (the cooldown period does not apply to this advert)
+
+2. Hitmen are not allowed to advert actions other than the ones stated in rule 1.
+
+3. Do not accept any hit requests placed by the Mayor or any law enforcement unless the law states it is legal.
+
+4. Carrying out a hit request on a staff member on duty is strictly forbidden.
+
+5. The Hitman is allowed to possess any weapon.
+
+7. You can not base with others or join a gang.
+
+8. You are allowed to own Money Printers.
+
+9. There needs to be a valid roleplay reason for accepting hit requests (e.g. I do not agree with the Mayor's laws so I want you to kill him.).
+
+10. You are allowed to own doors but you cannot build a base.
+
+11. The maximum amount that you are allowed to set a hit price to is $10,000.
+
+12. After failing or completing a hit, wait 10 minutes before accepting another hit request on the same person.
+
+13. Disguising as Staff on Duty and / or Head of Staff is forbidden.
+
+15. You must state the reason for completing a hit. (e.g. Hit completed - Tried to kidnap the client.)
+
+16. Accepting hits in open areas, when hits are illegal, is forbidden.
+
+
+
+Hobo:
+
+ You are not allowed to own doors, you must build on the streets.
+
+2. The Hobo is not allowed to possess any weapons.
+
+3. The King Hobo is allowed to possess a pistol for self-defence.
+
+4. You are not allowed to advert any actions.
+
+6. Do not block off tunnels or walkways on the streets.
+
+7. You are allowed to microphone spam if you station yourself in an area in which you have built (e.g. place a couch, sit on it and stay there).
+
+9. You are allowed to protest against the government even when the law states it is illegal.
+
+11. When building on the street, place a building text screen on your creation to avoid adverts being targeted towards you (optional)
+
+12. When you have a building sign, you have to be actively building at that location.
+
+13. If a staff member feels that your structure is unreasonable or too large, you must remove it.
+
+Terrorist:
+
+1. You can only detonate your bomb after adverting Terror
+
+2. There is a 10 minute cooldown between each terror attack (Advert)
+
+4. After the terrorist attack (once the bomb is detonated) you must advert "terror over"
+
+5. You are not allowed to advert anything other than Terror adverts.
+
+6. You cannot own any doors or base.
+
+
+DJ:
+
+1. You are only allowed to possess a pistol for self-defence.
+
+3. You are not allowed to advert any actions.
+
+4. You have to obey laws made by the Mayor.
+
+5. You are allowed to protest if the law states it is legal to do so.
+
+6. You are allowed to own doors but you are not allowed to build a base.
+
+7. You are allowed to base with other people, but you cannot join a gang.
+
+8. You are allowed to build on the streets.
+
+10. When building on the street, place a building text screen on your creation to avoid adverts being targeted towards you (optional)
+
+11. When you have a building sign, you have to be actively building at that location.
+
+Medic.
+
+
+1. You are allowed to ASSIST raid, cannot raid on your own.
+
+3. You can possess weapons.
+
+5. You are allowed to charge money for heals.
+
+6. You are only allowed to own doors and build a base if you are with another person or making a hospital.
+
+
+Citizen:
+
+1. You are allowed to possess a pistol for self defence.
+
+2. You are not allowed to advert any actions.
+
+3. You have to obey laws made by the Mayor.
+
+4. You are allowed to protest if the law states it is legal to do so.
+
+5. You are allowed to own doors but you are not allowed to build a base.
+
+6. You are allowed to base with other people, but you cannot join a gang.
+
+Pet:
+
+1. You are not allowed to own any weapons.
+
+2. You are only allowed to advert Raid Assist when Raiding with your owner and Counter anything that is targeted at your owner.
+
+3. You are not allowed to own doors or build a base.
+
+4. You can not join any gangs.
+
+5. You can only have one owner.
+
+6 When working for the police, you are allowed to kill any one who attacks your handler first.
+
+7. When working for the police, you must only have one handler.
+
+8. If your police handler orders you to kill a player, only do so if they have an immediate threat to the lives of civilians, you, or the officers around you.
+
+Bank Guard:
+
+1. You are allowed to build in the bank, but no fading doors and keypads.
+
+2. You are allowed to break NLR during a bank raid.
+
+3. You are not allowed to put a building sign out front, players can raid at any time.
+
+4. You may not own any illegal enitys (printers, drugs, etc.)
+
+5. You are allowed to guard the bank from outside the Bank.
+
+6. You are allowed to arrest anyone that tries to raid the bank.
