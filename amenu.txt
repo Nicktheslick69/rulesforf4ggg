@@ -31,7 +31,7 @@
 
 15. Do not interfere with admin sits at all.
 
-16. Don’t create inappropriate/offensive text signs.
+16. Donâ€™t create inappropriate/offensive text signs.
 
 17. You may not RP, or kill in spawn, unless your RP was initiated outside of spawn.
 
@@ -215,6 +215,7 @@ Gun Dealer:
 
 All Drug Cooks:
 
+
 1. Do not sell drugs to the Mayor or law enforcement unless the law states it is legal.
 
 2. You are allowed to give out free drugs.
@@ -313,7 +314,8 @@ DJ:
 
 11. When you have a building sign, you have to be actively building at that location.
 
-Medic.
+
+Medic:
 
 
 1. You are allowed to ASSIST raid, cannot raid on your own.
